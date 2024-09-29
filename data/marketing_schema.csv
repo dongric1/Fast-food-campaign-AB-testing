@@ -1,0 +1,8 @@
+column_name,is_nullable,data_type
+market_id,YES,INT64
+market_size,YES,STRING
+location_id,YES,INT64
+age_of_store,YES,INT64
+promotion,YES,INT64
+week,YES,INT64
+sales_in_thousands,YES,FLOAT64
